@@ -16,6 +16,3 @@ Nous commençons par une étape de normalisation. Les images sont modélisées p
 Le modèle de réseau neuronal est entraîné sur un premier lot, puis testé 
 En gros, nous alimentons le modèle avec une image d'un pantalon. Nous attendons ensuite du modèle qu'il nous indique qu'il s'agit d'un pantalon et non d'une jupe, d'un t-shirt ou d'une robe.
 
-
-
-Traduit avec DeepL.com (version gratuite)
